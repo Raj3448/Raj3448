@@ -1,6 +1,6 @@
 # 👋 Rajkumar Chavan - Flutter Developer & Software Engineer
 
-I am Rajkumar Chavan, a passionate software developer with expertise in mobile and web application development, specializing in Flutter and React.js. With over 1.3 years of hands-on experience in building scalable, user-centric applications, I have successfully developed projects ranging from healthcare, e-commerce, and media apps. 
+I am Rajkumar Chavan, a passionate software developer with expertise in mobile and web application development, specializing in Flutter. With over 1.3 years of hands-on experience building scalable, user-centric applications, I have successfully developed projects in healthcare, e-commerce, management, and media apps. 
 
 ## 💼 Professional Experience
 
