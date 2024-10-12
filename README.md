@@ -29,6 +29,6 @@ I aim to continue honing my skills in mobile app development while exploring adv
 
 - [LinkedIn](https://www.linkedin.com/in/raj3448)
 - [GitHub](https://github.com/Raj3448)
-- [Email](mailto:rajchavan3448@example.com)
+- [Email](mailto:rajchavan6659@example.com)
 
 Feel free to reach out for collaboration or any interesting project ideas!
